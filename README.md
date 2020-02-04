@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Welcome to Brandon Vi's take home project for William Sonoma. In order to run this project,
+Welcome to Brandon Vi's take home project for [redacted]. In order to run this project,
 we are gonna have to do setup. Don't worry, I'll guide you along the way.
 
 I did my best to try to respect the time limit that my recruiter gave for this project, which is about three hours. I was given conflicting information but ultimately, I took the word of my recruiter to respect the time limit.
 
-Also, I wasn't given mock ups of what the Product UI should look like as well as the Overlay Carousel. I tried reaching the recruiter about it but he wasn't able to respond to it. Therefore, I had to do my best what the UI looks like. I have attached how I received the Take Home prompt under `Front end Engineer-1.docx`.
+Also, I wasn't given mock ups of what the Product UI should look like as well as the Overlay Carousel. I tried reaching the recruiter about it but he wasn't able to respond to it. Therefore, I had to do my best what the UI looks like. I have attached how I received the Take Home prompt under `Front end Engineer-1.docx` (not attached).
 
 Finally, I had a great time doing this project. This gave me a better sense on how the basics of an ecommerence is developed on the front end sign from scratch. Hopefully, this application demonstrates somewhat of my coding skills.
 
