@@ -1,0 +1,25 @@
+img {
+  width: 300px;
+  height: 300px;
+  cursor: pointer;
+}
+
+span {
+  text-decoration: none;
+}
+
+.productBox {
+  padding: 10%;
+  height: 350px;
+  width: 350px;
+}
+
+@media (max-width: 1000px){
+  .productBox {
+    padding: 7%;
+  }
+}
+
+.productBox:hover {
+  background-color: rgb(220,220,220);
+}

@@ -1,0 +1,101 @@
+.baseButton {
+  background-color: #363636;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: solid;
+  border-color: #363636;
+  border-width: 3px;
+}
+
+
+.baseButton:hover {
+  background-color: white;
+  color: #363636;
+  border: solid;
+  border-color: #363636;
+  border-width: 3px;
+}
+
+.addToCartButton{
+  width: 200px;
+  height: 50px;
+}
+
+.quantField {
+  width: 100%;
+}
+
+.updateQuant {
+  border-radius: 50%;
+  padding: 7px 7px;
+  font-size: 12px;
+  border-width: 2px;
+}
+
+.updateQuant:hover {
+  padding: 7px 7px;
+  border-width: 2px;
+}
+
+.quantInput {
+  text-align: center;
+  border-style: none;
+  cursor: default;
+}
+
+.quantInput::-webkit-outer-spin-button,
+.quantInput::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.quantInput{
+    -moz-appearance:textfield; /* Firefox */
+}
+
+.pdp-image-gallery {
+  margin-left: 10%;
+}
+
+.thumbnail {
+  margin-right: 10px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.mainImage {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.buyNowButton {
+  width: 200px;
+  height: 50px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+
+.buyNowButton:hover {
+  background-color: #363636;
+  color: white;
+  border: solid;
+  border-color: #363636;
+  border-width: 3px;
+}

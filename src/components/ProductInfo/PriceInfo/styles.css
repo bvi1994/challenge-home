@@ -1,0 +1,12 @@
+.normalPrice {
+  color: black;
+}
+
+.originalPrice {
+  color: rgb(86, 84, 88);
+  text-decoration: line-through;
+}
+
+.salePrice {
+  color: red;
+}
